@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Mitra - Surveyor Berlisensi ATR/BPN",
+  "description": "Sistem Informasi Manajemen dan Verifikasi Surveyor Berlisensi Direktorat Jenderal Survei dan Pemetaan Pertanahan dan Ruang, Kementerian ATR/BPN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
