@@ -160,7 +160,7 @@ export const AtrBpnLogo: React.FC<AtrBpnLogoProps> = ({
                   fill="#61bd39"
                 />
 
-                {/* Blue Undulating Wave (Perairan / Ruang Laut) */}
+                {/*green Undulating Wave (Perairan / Ruang Laut) */}
                 <path
                   d="M 45 140 Q 75 136 105 141 T 160 140 L 160 165 L 45 165 Z"
                   fill="#2098d6"

@@ -57,7 +57,7 @@ export const AppSidebar: React.FC<AppSidebarProps> = ({
       label: 'Notifikasi', 
       icon: Bell,
       badge: unreadNotifCount > 0 ? unreadNotifCount : null,
-      badgeColor: 'bg-blue-500 text-white'
+      badgeColor: 'bg-green-500 text-white'
     },
     { id: 'sb-bantuan', label: 'Bantuan', icon: HelpCircle }
   ];

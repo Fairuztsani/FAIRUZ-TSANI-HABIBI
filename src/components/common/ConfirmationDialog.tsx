@@ -65,7 +65,7 @@ export const ConfirmationDialog: React.FC<ConfirmationDialogProps> = ({
     },
     primary: {
       icon: HelpCircle,
-      bg: 'bg-blue-100 text-[#0f2e59]',
+      bg: 'bg-green-100 text-[#0f2e59]',
       btn: 'bg-[#0f2e59] hover:bg-[#16396b] text-white focus:ring-[#0f2e59]'
     }
   };

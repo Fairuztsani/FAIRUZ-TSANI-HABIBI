@@ -21,10 +21,10 @@ export const StatCard: React.FC<StatCardProps> = ({
   active = false
 }) => {
   const variantStyles = {
-    blue: {
+    green: {
       bg: 'bg-white',
       border: active ? 'border-[#0f2e59] ring-2 ring-[#0f2e59]/20' : 'border-slate-200/80 hover:border-[#0f2e59]/50',
-      iconBg: 'bg-blue-50 text-[#0f2e59]',
+      iconBg: 'bg-green-50 text-[#0f2e59]',
       valueColor: 'text-[#0f2e59]'
     },
     amber: {
